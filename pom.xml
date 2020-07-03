@@ -20,7 +20,7 @@
 		<sonar.coverage.exclusions>**mediclaim/*,**/config/*,**/entity/*,**/dto/*,**/repository/*,**/exception/*,**/util/*</sonar.coverage.exclusions>
 	</properties>
 	<scm>
-       <connection>scm:https://github.com/samridhi97/mediclaim.git</connection>
+       <connection>scm:https://github.com/Dksha123/mediclaim.git</connection>
        <url>https://github.com/Dksha123/mediclaim.git</url>
        <developerConnection>scm:git:https://github.com/Dksha123/mediclaim.git</developerConnection>
     <tag>HEAD</tag>
