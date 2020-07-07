@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.strikers</groupId>
 	<artifactId>mediclaim</artifactId>
-	<version>0.0.12-SNAPSHOT</version>
+	<version>0.0.13-SNAPSHOT</version>
 	<name>mediclaim</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -101,8 +101,8 @@
 	    <configuration>
 	         <baselineOnMigrate>true</baselineOnMigrate>
 	         <url>jdbc:mysql://34.238.189.97:3306</url>
-	         <user>inguser4</user>
-		  <password>H@ckath0n</password>
+	         <user>dev1</user>
+		  <password>H@ckatha0n</password>
 	      <schemas>
 	          <schema>mediclaim</schema>
 	        </schemas>
