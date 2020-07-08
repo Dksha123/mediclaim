@@ -99,10 +99,10 @@
 	    <configuration>
 	         <baselineOnMigrate>true</baselineOnMigrate>
 	         <url>jdbc:mysql://34.238.189.97:3306</url>
-	         <user>dev1</user>
+	         <user>prac</user>
 		  <password>H@ckatha0n</password>
 	      <schemas>
-	          <schema>devdb</schema>
+	          <schema>pracdb</schema>
 	        </schemas>
 	  </configuration>	
 	 </plugin>
