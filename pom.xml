@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.strikers</groupId>
 	<artifactId>mediclaim</artifactId>
-	<version>0.0.29-SNAPSHOT</version>
+	<version>0.0.30-SNAPSHOT</version>
 	<name>mediclaim</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -98,11 +98,11 @@
 	    <version>6.4.4</version>
 	    <configuration>
 	         <baselineOnMigrate>true</baselineOnMigrate>
-	         <url>jdbc:mysql://54.237.4.65:3306</url>
-	         <user>inguser1</user>
+	         <url>jdbc:mysql://34.238.189.97:3306</url>
+	         <user>dev1</user>
 		  <password>H@ckatha0n</password>
 	      <schemas>
-	          <schema>sitdb</schema>
+	          <schema>devdb</schema>
 	        </schemas>
 	  </configuration>	
 	 </plugin>
